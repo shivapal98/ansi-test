@@ -1,0 +1,8 @@
+ mysql:
+    db: project-database
+    user: myuser
+    password: Sexy@1234
+    privileges: '*.*:ALL'
+    host: '%'
+    bind:
+      - 0.0.0.0

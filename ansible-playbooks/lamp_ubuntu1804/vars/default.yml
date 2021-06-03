@@ -1,0 +1,7 @@
+---
+mysql_root_password: "Sexy@1234"
+app_user: "shiva"
+http_host: "freemen.zapto.org"
+http_conf: "freemen.conf"
+http_port: "80"
+disable_default: true
